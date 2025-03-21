@@ -24,15 +24,13 @@ def TOOL_BANNER():
 
 
 def HELP_BANNER():
-    return f"""{fg.WHITE}
-    IP Sniffer for use in Online Chats, such as OmeTV and Omegle.
+    return f"""{fg.WHITE}    IP Sniffer for use in Online Chats, such as OmeTV and Omegle.
     Over time there will be updates to expand its capacity.
 
     Commands:
     {fg.GREEN}[exit{fg.WHITE}] - to exit the tool
     {fg.GREEN}[clear{fg.WHITE}] - to clear the tool screen
-    {fg.GREEN}[start{fg.WHITE}] - to start capturing IPs
-    """
+    {fg.GREEN}[start{fg.WHITE}] - to start capturing IPs"""
 
 
 # Search the IP in the database to locate it.
