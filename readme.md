@@ -46,3 +46,6 @@ py sniffer.py
 📌 **Autor:** Astraeus
 📌 **Versão:** 2  
 📌 **Linguagem:** Python
+
+---
+![sniffer](sniffer.PNG)
