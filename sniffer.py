@@ -19,7 +19,7 @@ def TOOL_BANNER():
     return f"""{fg.RED}
                     ┏┓┏┓┏┳┓┳┓┏┓┏┓┳┳┏┓      ┳┏┓  ┏┓┳┓┳┏┓┏┓┏┓┳┓
                     ┣┫┗┓ ┃ ┣┫┣┫┣ ┃┃┗┓  ━━  ┃┃┃  ┗┓┃┃┃┣ ┣ ┣ ┣┫
-                    ┛┗┗┛ ┻ ┛┗┛┗┗┛┗┛┗┛      ┻┣┛  ┗┛┛┗┻┻ ┻ ┗┛┛┗
+                    ┛┗┗┛ ┻ ┛┗┛┗┗┛┗┛┗┛      ┻┣┛  ┗┛┛┗┻┻ ┻ ┗┛┛┗ v2
               {fg.WHITE}Developed by {fg.GREEN}Astraeus {fg.WHITE}- type [{fg.GREEN}help{fg.WHITE}] to show help menu"""
 
 
