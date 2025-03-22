@@ -15,11 +15,11 @@ Antes de instalar, **certifique-se de ter o Python instalado** no seu sistema.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/astraeus-ip-sniffer.git
+   git clone https://github.com/astraeus47/AstraeusIPSniffer.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd astraeus-ip-sniffer
+   cd AstraeusIPSniffer
    ```
 3. Instale as dependências:
    ```bash
